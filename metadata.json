@@ -1,0 +1,5 @@
+{
+  "name": "Newton's Physics Class",
+  "description": "An AI-powered physics tutor that analyzes problems from images, generates a slide deck solution, and presents it using an interactive Isaac Newton avatar with voice narration.",
+  "requestFramePermissions": []
+}
